@@ -1,4 +1,5 @@
-Link Postman: https://.postman.co/workspace/My-Workspace~7b557f3d-25ed-40f6-86fa-75d7eba00dda/collection/11796895-43d6cec8-2723-4eb8-9929-2a72859e855e?action=share&creator=11796895
+Silakan download dan import ke collection Postman masing-masing: [https://.postman.co/workspace/My-Workspace~7b557f3d-25ed-40f6-86fa-75d7eba00dda/collection/11796895-43d6cec8-2723-4eb8-9929-2a72859e855e?action=share&creator=11796895](https://drive.google.com/file/d/18nhhGW76CgFKORTRMgpWDuOEHzXaWLmx/view?usp=sharing)
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
