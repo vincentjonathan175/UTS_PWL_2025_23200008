@@ -1,0 +1,21 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model preorder {
+  id  Int @id @default(autoincrement())
+  order_date  DateTime
+  order_by  String
+  selected_package  String
+  qty Int
+  is_paid Boolean
+}
